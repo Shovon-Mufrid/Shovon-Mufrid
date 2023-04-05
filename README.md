@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shovon-Mufrid
-- 👀 I’m interested in Web Development. I am good at backend development like PHP, Laravel etc.
-- 🌱 I’m currently learning Django and Networking
+- 👀 I’m interested in Web Development. I am good at backend development like Django, PHP, Laravel etc.
+- 🌱 I’m currently learning DevOPS and Networking
 - 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me: shovonmufrid98@gmail.com
 
