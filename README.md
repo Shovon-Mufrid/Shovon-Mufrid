@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Shovon-Mufrid
-- 👀 I’m interested in Web Development. I am good at backend development like Django, PHP, Laravel etc.
-- 🌱 I’m currently learning DevOPS and Networking
-- 💞️ I’m looking to collaborate with everyone
-- 📫 How to reach me: shovonmufrid98@gmail.com
 
 <!---
 Shovon-Mufrid/Shovon-Mufrid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +9,11 @@ You can click the Preview link to take a look at your changes.
 <!---
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/)
 --->
-:wave: Hi there, It's Mufrid Shovon. I'm currently working as a Software Engineer. I have focusd working on knowledge of Django REST Framework, ReactJS & Data Science for Software Development. 
-I am also working on Penetration Testing & Cyber Research Analysis with an aim to walk among Ethical Hacking.
-I'm interested in doing research on agricultureand health based research to develop my country.
-I love working with new technologies and play with Cyber Security tools
+👋 Hi there, It's Mufrid Shovon. I'm currently working as a Software Engineer. I have focusd working on knowledge of Django REST Framework, ReactJS & Data Science for Software Development. 
+👀 I am also working on Penetration Testing & Cyber Research Analysis with an aim to walk among Ethical Hacking.
+💞️ I’m looking to collaborate with everyone.
+🌱 I'm interested in doing research on agricultureand health based research to develop my country.
+📫 I love working with new technologies and play with Cyber Security tools
 
 <h2>My Tech Stack</h2>
 <table>
@@ -74,23 +70,9 @@ I love working with new technologies and play with Cyber Security tools
     </td>
   </tr>
   <tr>
-
-    <td align="center">
-      <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
-      <br>Nginx
-    </td>
-    <td align="center">
-      <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
-      <br>Ubuntu
-    </td>
-    <td align="center">
-      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-      <br>PyCharm
-    </td>
-  </tr>
 </table>
 <!---
-![Github stats](https://github-readme-stats.vercel.app/api?username=sajib1066&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib1066&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shovon-mufrid&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shovon-mufrid&layout=compact)
 ## My Repos
 --->
