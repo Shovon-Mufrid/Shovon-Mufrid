@@ -57,6 +57,10 @@ I love working with new technologies and play with Cyber Security tools
       <br>AWS
     </td>
     <td align="center">
+      <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <br>Linux
+    </td>
+    <td align="center">
       <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <br>PostgreSQL
     </td>
@@ -65,8 +69,8 @@ I love working with new technologies and play with Cyber Security tools
       <br>MySQL
     </td>
     <td align="center">
-      <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-      <br>Linux
+      <img alt="wordpress" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+      <br>WordPress
     </td>
   </tr>
   <tr>
