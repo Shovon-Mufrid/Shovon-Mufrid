@@ -35,8 +35,8 @@ I love working with new technologies and play with Cyber Security tools
       <br>Javascript
     </td>
     <td align="center">
-      <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-      <br>Vue
+      <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <br>React
     </td>
     <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
