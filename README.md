@@ -53,10 +53,6 @@ I love working with new technologies and play with Cyber Security tools
       <br>Jenkins
     </td>
     <td align="center">
-      <img alt="kali" height=64px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AKali-dragon-icon.svg&psig=AOvVaw16-EUskAx6eb8LDErMRZBp&ust=1705920615751000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCIiV09Wn7oMDFQAAAAAdAAAAABAE">
-      <br>Kali
-    </td>
-    <td align="center">
       <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
       <br>AWS
     </td>
@@ -68,12 +64,13 @@ I love working with new technologies and play with Cyber Security tools
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-      <br>BASH
+      <br>Linux
     </td>
+  </tr>
+  <tr>
+
     <td align="center">
       <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
       <br>Nginx
