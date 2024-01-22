@@ -70,12 +70,13 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center">
       <img alt="kali-linux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-      <br>Kali Linux
+      <br>Debian
     </td>
-
-
+    <td align="center">
+      <img alt="ubuntu" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+      <br>Ubuntu
+    </td>
   </tr>
-  <tr>
 </table>
 <!---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shovon-mufrid&theme=highcontrast&show_icons=true&count_private=true)
