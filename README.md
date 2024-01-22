@@ -9,7 +9,8 @@ You can click the Preview link to take a look at your changes.
 <!---
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/)
 --->
-👋 Hi there, It's Mufrid Shovon. I'm currently working as a Software Engineer. I have focusd working on knowledge of Django REST Framework, ReactJS & Data Science for Software Development. <br>
+👋 Hi there, It's Mufrid Shovon. I'm currently working as a Software Engineer.  <br>
+✨ I have focusd working on knowledge of Django REST Framework, ReactJS & Data Science for Software Development. <br>
 👀 I am also working on Penetration Testing & Cyber Research Analysis with an aim to walk among Ethical Hacking. <br>
 💞️ I’m looking to collaborate with everyone. <br>
 🌱 I'm interested in doing research on agricultureand health based research to develop my country. <br>
@@ -39,6 +40,10 @@ You can click the Preview link to take a look at your changes.
       <br>Bootstrap
     </td>
     <td align="center">
+      <img alt="ant-design" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ant-design/ant-design-original.svg">
+      <br>Ant Design
+    </td>
+    <td align="center">
       <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
       <br>jQuery
     </td>
@@ -50,12 +55,17 @@ You can click the Preview link to take a look at your changes.
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>MySQL
     </td>
+
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="php" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <br>PHP
+    </td>
     <td align="center">
       <img alt="wordpress" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
       <br>WordPress
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="jenkins" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
       <br>Jenkins
@@ -75,6 +85,14 @@ You can click the Preview link to take a look at your changes.
     <td align="center">
       <img alt="ubuntu" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
       <br>Ubuntu
+    </td>
+    <td align="center">
+      <img alt="solidity" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+      <br>Solidity
+    </td>
+    <td align="center">
+      <img alt="postman" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+      <br>Postman
     </td>
   </tr>
 </table>
