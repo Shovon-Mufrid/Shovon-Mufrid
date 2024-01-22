@@ -40,10 +40,6 @@ You can click the Preview link to take a look at your changes.
       <br>Bootstrap
     </td>
     <td align="center">
-      <img alt="ant-design" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ant-design/ant-design-original.svg">
-      <br>Ant Design
-    </td>
-    <td align="center">
       <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
       <br>jQuery
     </td>
@@ -89,10 +85,6 @@ You can click the Preview link to take a look at your changes.
     <td align="center">
       <img alt="solidity" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
       <br>Solidity
-    </td>
-    <td align="center">
-      <img alt="postman" height=64px src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg">
-      <br>Postman
     </td>
   </tr>
 </table>
