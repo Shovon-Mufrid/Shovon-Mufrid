@@ -9,11 +9,11 @@ You can click the Preview link to take a look at your changes.
 <!---
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/)
 --->
-👋 Hi there, It's Mufrid Shovon. I'm currently working as a Software Engineer. I have focusd working on knowledge of Django REST Framework, ReactJS & Data Science for Software Development. 
-👀 I am also working on Penetration Testing & Cyber Research Analysis with an aim to walk among Ethical Hacking.
-💞️ I’m looking to collaborate with everyone.
-🌱 I'm interested in doing research on agricultureand health based research to develop my country.
-📫 I love working with new technologies and play with Cyber Security tools
+👋 Hi there, It's Mufrid Shovon. I'm currently working as a Software Engineer. I have focusd working on knowledge of Django REST Framework, ReactJS & Data Science for Software Development. <br>
+👀 I am also working on Penetration Testing & Cyber Research Analysis with an aim to walk among Ethical Hacking. <br>
+💞️ I’m looking to collaborate with everyone. <br>
+🌱 I'm interested in doing research on agricultureand health based research to develop my country. <br>
+📫 I love working with new technologies and play with Cyber Security tools <br>
 
 <h2>My Tech Stack</h2>
 <table>
@@ -68,6 +68,11 @@ You can click the Preview link to take a look at your changes.
       <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
       <br>Linux
     </td>
+    <td align="center">
+      <img alt="kali-linux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+      <br>Kali Linux
+    </td>
+
 
   </tr>
   <tr>
