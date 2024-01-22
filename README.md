@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
       <br>Solidity
     </td>
     <td align="center">
-      <img alt="postman" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+      <img alt="postman" height=64px src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg">
       <br>Postman
     </td>
   </tr>
